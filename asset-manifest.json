@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MuazAhmad7/twraps.git/static/css/main.0f64d424.css",
+    "main.js": "/MuazAhmad7/twraps.git/static/js/main.f1e55ee9.js",
+    "static/media/car.jpg": "/MuazAhmad7/twraps.git/static/media/car.63c30d9071b14015fa60.jpg",
+    "index.html": "/MuazAhmad7/twraps.git/index.html",
+    "main.0f64d424.css.map": "/MuazAhmad7/twraps.git/static/css/main.0f64d424.css.map",
+    "main.f1e55ee9.js.map": "/MuazAhmad7/twraps.git/static/js/main.f1e55ee9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f64d424.css",
+    "static/js/main.f1e55ee9.js"
+  ]
+}
